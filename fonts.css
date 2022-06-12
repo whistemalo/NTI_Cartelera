@@ -28,3 +28,7 @@
 .icon-arrow-up:before {
   content: "\ea32";
 }
+
+.footer{
+    flex:auto;
+}
